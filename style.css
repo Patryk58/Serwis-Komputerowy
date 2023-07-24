@@ -1,0 +1,153 @@
+html, body
+{
+	width: 100%;
+	height: 100%;
+	margin: 0;
+}
+.c_head
+{
+	float: left;
+	width: 20%;
+	height: 15%;
+}
+header
+{
+	float: left;
+	color: black;
+	width: 60%;
+	height: 15%;
+}
+#img_head
+{
+	float: left;
+	width: 40%;
+	height: 100%;
+}
+.c_nav
+{
+	float: left;
+	width: 20%;
+	height: 4%;
+	background: black;
+}
+nav
+{
+	float: left;
+	background: black;
+	width: 60%;
+	height: 4%;
+}
+.a_nav
+{
+	float: left;
+	width: 33.33%;
+	height: 100%;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.a_nav:hover
+{
+	background: dodgerblue;
+	transition: 0.5s;
+}
+section
+{
+	float: left;
+	width: 60%;
+	height: auto;
+}
+.c_sec
+{
+	float: left;
+	width: 20%;
+	height: 75%;
+
+}
+footer
+{
+	background: black;
+	float: left;
+	text-align: center;
+	width: 100%;
+	height: auto;
+	color: white;
+}
+#a_foot
+{
+	text-decoration: none;
+	color: white;
+}
+.a_kont
+{
+	text-decoration: none;
+	color: #0066b1;
+	font-size: 20px;
+}
+.a_kont:hover
+{
+	color: red;
+}
+.h
+{
+	text-align: center;
+	font-size: 25px;
+	color: #0066b1;
+}
+li
+{
+	color: #0066b1;
+}
+iframe
+{
+	width: 100%;
+	height: 400px;
+	border: 2px solid #0066b1;
+}
+#home
+{
+	text-align: center;
+	font-size: 18px;
+}
+section p
+{
+	font-size: 16px;
+}
+.img_sec
+{
+	width: 80%;
+	height: 30%;
+	box-shadow: 12px 12px 2px 1px rgba(12, 56, 100, 0.3);
+}
+.rotate_right
+{
+	transform: rotate(12deg);
+}
+.rotate_left
+{
+	transform: rotate(-12deg);
+}
+.p_services
+{
+	font-size: 20px;
+}
+.a_services
+{
+	text-decoration: none;
+	color: #0066b1;
+}
+.a_services:hover
+{
+	color: red;
+}
+#tab_services
+{
+	text-align: center;
+	border: 2px solid #0066b1;
+	font-size: 20px;
+}
