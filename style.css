@@ -75,7 +75,7 @@ footer
 	float: left;
 	text-align: center;
 	width: 100%;
-	height: auto;
+	height: 6%;
 	color: white;
 }
 #a_foot
@@ -88,10 +88,6 @@ footer
 	text-decoration: none;
 	color: #0066b1;
 	font-size: 20px;
-}
-.a_kont:hover
-{
-	color: red;
 }
 .h
 {
@@ -141,7 +137,7 @@ section p
 	text-decoration: none;
 	color: #0066b1;
 }
-.a_services:hover
+.a_services:hover, .tr_services:hover, .a_kont:hover
 {
 	color: red;
 }
